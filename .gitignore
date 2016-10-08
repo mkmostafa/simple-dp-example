@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+recursion
+.DS_Store
+build
